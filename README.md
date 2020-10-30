@@ -1,5 +1,5 @@
 # my-opencv-projects
-My opencv projects and tools
+My opencv projects and tools created by myself
 
 Projects :
 
