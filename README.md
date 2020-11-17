@@ -1,6 +1,6 @@
 # my-opencv-projects
 My opencv projects and tools created by myself.
-Need to add pending projects also.
+soon will add more projects also.
 
 Projects :
 
